@@ -71,7 +71,6 @@ table {
     text-align: center;
 }
 
-
 tbody tr {
   height: 45px;  
   margin-bottom: 8px;
@@ -79,7 +78,6 @@ tbody tr {
   border-radius: 3px;
   padding: 0 15px;
 }
-
 
 thead th {
 	font-size: 25px;
