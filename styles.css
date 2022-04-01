@@ -98,19 +98,14 @@ th, td{
 tbody tr:hover {
 	background: #E9E9E9;
 }
-
-
-
 .delete{
 	text-align: center;
-    width: 45px;
-  
+  width: 45px;  
 }
 .delete a{
 	color: white;
 	background: #a52a2a;
 	padding: 1px 6px;
 	border-radius: 3px;
-	text-decoration: none;
-      
+	text-decoration: none;  
 }
