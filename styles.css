@@ -65,10 +65,10 @@ body{
 }
 
 table {
-    width: 85%;
-    margin: 30px 5px 30px 5px;
-    border-collapse: collapse;
-    text-align: center;
+  width: 85%;
+  margin: 30px 5px 30px 5px;
+  border-collapse: collapse;
+  text-align: center;
 }
 
 tbody tr {

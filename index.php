@@ -55,8 +55,7 @@
 			</tr>
 		</thead>
 		<tbody>
-			<?php 
-			
+			<?php 			
 			$tasks = mysqli_query($db, "SELECT * FROM tasks");
 
 			$i = 1; while ($row = mysqli_fetch_array($tasks)) { ?>
